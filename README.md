@@ -1,4 +1,4 @@
-- Hi I'm Riley Velasc
+- Hi I'm Riley Velasco
 - I am currently a Software Developer that mainly works with the following : ASP.NET, C#, JQuery, SQL, HTML and Python.
 - I am interested in back-end development, DevOps, and dot Files
 
